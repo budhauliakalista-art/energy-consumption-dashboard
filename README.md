@@ -33,9 +33,12 @@ The goal is to identify consumption patterns, cost trends, and building-level in
 ---
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+<img width="1114" height="539" alt="image" src="https://github.com/user-attachments/assets/1e6e27b0-32e4-4aef-a1cd-462d4cb66dac" />
+<img width="1091" height="531" alt="Screenshot 2026-05-03 174933" src="https://github.com/user-attachments/assets/ea1c903d-3c38-4d93-b727-a3f6ec8be202" />
+<img width="1293" height="628" alt="Screenshot 2026-05-03 174916" src="https://github.com/user-attachments/assets/3d69f35b-85ab-4089-8441-1e6dae8dfbd4" />
+<img width="895" height="618" alt="Screenshot 2026-05-03 174901" src="https://github.com/user-attachments/assets/aab643ff-37f9-453a-b6d7-2ea1508fa880" />
 
----
+
 
 ## 🚀 How to Use
 1. Download the Excel file (.xlsm)
